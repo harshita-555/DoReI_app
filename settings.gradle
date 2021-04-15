@@ -1,0 +1,2 @@
+rootProject.name='DoReI'
+include ':app'

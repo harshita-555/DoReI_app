@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">DoReI-doNate&amp;Quest</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="subjects">
+        <item>Select a Subject</item>
+        <item>Mathematics</item>
+        <item>English</item>
+        <item>Physics</item>
+        <item>Chemistry</item>
+        <item>Biology</item>
+        <item>Science</item>
+        <item>Social Science</item>
+        <item>Hindi</item>
+        <item>Others</item>
+    </string-array>
+
+
+</resources>
