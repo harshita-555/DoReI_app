@@ -12,12 +12,18 @@ Demo of the application can be found at the youtube link : https://www.youtube.c
 - Or Android Mobile
 
 ## Testing :
-- Used virtual python environment on a linux machine
+- Download the dorei.apk file above to your android mobile and open it.
+- It will ask if you want install the app
+- Click on yes
+- The app will then be installed on your mobile
 
 ## Setting up the project
-1.Please follow the above steps to set up the virtual environment if you haven't already
+1.Please follow the above steps to set up the android studio environment
+2.Install the latest version of Android Studio on your desktop.
+3.Create a new directory called DoReI inside AndroidStudioProjects directory (automatically created while installing Android Studio)
+4.Start AndroidStudio and goto file->open->Path to DoReI directory
+5.After opening the project, click on build->Make Project
 
-5.Follow the URL dispalyed and you will be directed to the website
 
 ## Organisation 
 This project is created as a part of the Database and Management Course [CS43002] of IIT Kharagpur
