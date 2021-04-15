@@ -18,11 +18,11 @@ Demo of the application can be found at the youtube link : https://www.youtube.c
 - The app will then be installed on your mobile
 
 ## Setting up the project
-1.Please follow the above steps to set up the android studio environment
-2.Install the latest version of Android Studio on your desktop.
-3.Create a new directory called DoReI inside AndroidStudioProjects directory (automatically created while installing Android Studio)
-4.Start AndroidStudio and goto file->open->Path to DoReI directory
-5.After opening the project, click on build->Make Project
+1. Please follow the above steps to set up the android studio environment
+2. Install the latest version of Android Studio on your desktop.
+3. Create a new directory called DoReI inside AndroidStudioProjects directory (automatically created while installing Android Studio)
+4. Start AndroidStudio and goto file->open->Path to DoReI directory
+5. After opening the project, click on build->Make Project
 
 
 ## Organisation 
